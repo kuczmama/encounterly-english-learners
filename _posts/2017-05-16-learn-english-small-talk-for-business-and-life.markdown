@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Learn English - Small Talk for Business and Life"
+date:   2017-05-16 07:00:00 +0900
+categories: jekyll update
+---
+<a href="https://www.meetup.com/tokyo-english-learners/events/239634430/">RSVP on Meetup.com</a>
+<div>
+<p>※英文の後に日本語による説明があります。</p> <p>This lesson will allow you to practice small talk and improve your English conversation skills. Having good small talk skills will help you grow your business and personal relationships. The lesson will be given in English by a native speaker. It is for Intermediate to Advanced English Speakers.</p> <p>Goals:<br/>To discuss the importance and drawbacks of small talk;<br/>To learn useful small talk phrases</p> <p>Lesson: 1 hour<br/>Define “small talk” (5 minutes)<br/>Talk about benefits of “small talk” with each other in groups (10 minutes)<br/>Do’s and Don’ts in small talk (10 minutes)<br/>Useful small talk phrases (10 minutes)<br/>Practice small talk (10 minutes)<br/>Listening exercise (5 minutes)<br/>Listening Discussion and wrap-up (10 minutes)</p> <p>The lesson will cost ¥1,000-. </p> <p>The class will be taught by Mark Kuczmarski from Cleveland, Ohio in the United States. He currently works as a software developer in Tokyo. He has a Bachelors from Miami University with a double Major in Software Engineering and Computer Science with a minor in Mechanical Engineering. Upon graduation, he worked in consulting in Silicon Valley at a large biomedical corporation. He has a passion for teaching and helping others achieve their goals.</p> <p><br/>みなさん、こんにちは。今回はスモールトークについてレクチャーします。スモールトークスキルを身につけることによって、ビジネスや身の回りの関係を向上させることができます。また、信頼関係の構築や会話を継続させることにもつながります。レッスンは、ネイティブスピーカーにより英語で行われ、中級また上級向けのレッスンです。</p> <p>レッスンの目標：<br/>・スモールトークの長所および短所について議論する<br/>・スモールトークに役立つフレーズを学ぶ</p> <p>レッスンの構成：<br/>・スモールトークの構成（5分）<br/>・スモークトークの利点について議論する（10分）<br/>・スモールトークで話す話題とそうでない話題（10分）<br/>・便利なスモールトークのフレーズ（10分）<br/>・スモールトークの練習（10分）<br/>・リスニングの練習（5分）<br/>・リスニングのフォローとラップアップ（10分）</p> <p><br/>レッスン代金：1,000円</p> <p>講師について：<br/>Mark Kuczmarski （マーククーズマースキー）<br/>・出身：米国オハイオ州クリーブランド<br/>・学歴：Miami Universityソフトウエアエンジニア及びコンピューターサイエンス専攻、メカニカルエンジニア副専攻<br/>・略歴：シリコンバレーにてコンサルタントとして勤務し、バイオメディカル系の企業にITサービスを提供。現在、東京でソフトウエアデベロッパーとしてIT企業に勤務。</p> <p>場所：八重洲藤山ビル</p> <p>東京都中央区八重洲1－9－8, Tokyo</p> 
+</div>
+<a href="https://www.meetup.com/tokyo-english-learners/events/239634430/">RSVP on Meetup.com</a>
