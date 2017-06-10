@@ -39,7 +39,8 @@ module Jekyll_Get
       # Generate some new posts with the data
       site.data['events'].each do |event|
         time = Time.at(event['time'] / 1000)
-        file = "_posts/#{time.strftime("%F")}-#{event['name'].downcase.gsub('[^\x00-\x7F]','').gsub('-',' ').gsub(/\s+/, ' ').gsub(' ','-').gsub('.','').gsub(':','&#58')}.markdown"
+        file = "_posts/#{time.strftime("%F")}-tokyo-english-learners"
+        #file = "_posts/#{time.strftime("%F")}-#{event['name'].downcase.gsub('[^\x00-\x7F]','').gsub('-',' ').gsub(/\s+/, ' ').gsub(' ','-').gsub('.','').gsub(':','&#58')}.markdown"
         `touch #{file}`
         %x(cat > #{file} <<EOF
 ---
