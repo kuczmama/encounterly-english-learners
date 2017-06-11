@@ -51,7 +51,7 @@ categories: jekyll update
 ---
 <a href="#{event['link']}">View on Meetup.com</a>
 <div>
-#{event['description']}
+#{event['description'].gsub("<img\ src=\".*\.jpegh","<img src=\"")}
 </div>
 <a href="#{event['link']}">View on Meetup.com</a>
 EOF)

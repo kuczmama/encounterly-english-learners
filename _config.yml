@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Encounterly English Learners
+title: Tokyo English Learners
 email: tokyoenglishlearners@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Encounterly English Learners is for people who want to improve their English and meet other people.
+  Tokyo English Learners is for people who want to improve their English and meet other people.
   We encounter new challenges daily.
   
 
