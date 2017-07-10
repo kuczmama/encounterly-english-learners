@@ -79,9 +79,9 @@ PLATFORMS
 DEPENDENCIES
   hash-joiner
   html-proofer
-  jekyll (= 3.4.3)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  jekyll
+  jekyll-feed
+  minima
   tzinfo-data
 
 RUBY VERSION
